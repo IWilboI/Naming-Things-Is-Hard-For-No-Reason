@@ -3,9 +3,9 @@
 ## User Story
 
 ```md
-AS A marketing student,
-I WANT a personal blog
-SO THAT I can showcase my thoughts and experiences.
+AS A Bootcamp student,
+I WANT a write code for personal blog
+SO THAT I can showcase my thoughts and experiences as well as practice writing code.
 ```
 
 ## Acceptance Criteria
