@@ -34,3 +34,8 @@ WHEN I take a closer look at a single blog entry in the list,
 THEN I can see the title, the content, and the author of the post.
 WHEN I view the footer,
 THEN I am presented with a link to the developer's portfolio.
+
+![Form - Google Chrome 5_24_2024 12_45_02 PM](https://github.com/IWilboI/Naming-Things-Is-Hard-For-No-Reason/assets/167031800/531b881c-1e41-4cc9-9155-f09b68d0ac9d)
+
+![Form - Google Chrome 5_24_2024 12_45_33 PM](https://github.com/IWilboI/Naming-Things-Is-Hard-For-No-Reason/assets/167031800/6ecb3562-cf88-4310-b6cb-d18cb06e0b9d)
+
